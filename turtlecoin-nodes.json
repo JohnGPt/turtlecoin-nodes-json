@@ -227,6 +227,12 @@
       "url": "val.turtlenode.online",
       "port": 11898,
       "ssl": false
+    },
+    {
+      "name": "USA West",
+      "url": "75.169.34.225",
+      "port": 11898,
+      "ssl": false
     }
   ]
 }
